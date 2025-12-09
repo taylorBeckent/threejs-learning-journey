@@ -1,0 +1,10 @@
+**/node_modules/
+dist/
+build/
+**/three.js-dev/
+.DS_Store
+*.log
+.env
+.cache
+.parcel-cache
+*.zip
