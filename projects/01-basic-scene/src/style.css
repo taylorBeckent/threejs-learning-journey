@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#webgl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+canvas {
+  /*display: flex;*/
+  /*position: fixed;*/
+  /*left: 0;*/
+  /*top: 0;*/
+  /*width: 100vw;*/
+  /*height: 100vh;*/
+}
